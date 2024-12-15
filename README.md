@@ -414,42 +414,6 @@ h.	Concaténer 2 chaînes de caractères
 
 142.	Qu'est-ce qu'une assertion dans un test unitaire ?
 
-## English
-1)	What does JavaScript enable you to do on a website ?
-a.	Add interactive behavior and dynamic content
-b.	Define the layout and design of web pages
-c.	Handle server-side operations
-
-2)	Which programming language is primarily used for server-side web development ?
-a.	PHP
-b.	JavaScript
-c.	HTML
-
-3)	What is the purpose of a web browser ?
-a.	To render and display web pages
-b.	To execute serve-side code
-c.	To manage databases
-
-4)	What is the difference between GET and POST methods in HTTP ?
-a.	GET retrieves data from a server, while POST submits data to a server
-b.	GET submits data to a server, while POST retrieves data from a server
-c.	GET and POST methods are interchangeable
-
-5)	What is the purpose of version control systems (e.g., Git) in web development ?
-a.	To track changes and manage collaborative development
-b.	To optimize website loading speed
-c.	To handle server-side scripting
-
-6)	What is the purpose of a framework in web development ?
-a.	To provide a structured environment for building web applications
-b.	To handle network protocols and data transfer
-c.	To create visual designs and layouts for websites
-
-7)	What does NoSQL stand for ?
-a.	Not Only SQL
-b.	Non-Structured Query Language
-c.	New Object-Oriented Language
-
 8)	Which of the following is a characteristic of NoSQL databases ?
 a.	Strict schema enforcement
 b.	Support for complex transactions
