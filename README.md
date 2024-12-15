@@ -104,37 +104,71 @@
 ## Front-end
 18.	Définir HTML
 
+> HTML signifie **HyperText Markup Language**. C'est un langage de balisage permettant de structurer le contenu d'une page web.
+
 19.	Définir CSS
+    
+> CSS signifie **Cascading Style Sheets**. C'est un langage de style permettant de définir l'apparence des élements HTML (par exemple la couleur, la taille, la position etc)
 
 20.	Définir Javascript
 
-21.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
+> Le javascript est un langage permettant de gérer l'interaction ainsi que intégrer des fonctionnalités dynamique sur les sites web. 
 
-22.	Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
+22.	Définir JSON. Dans quel contexte ce format est-il utilisé ?
 
-23.	Qu’est-ce qu’un sélecteur CSS ?
+> JSON signifie **JavaScript Object Notation**. C'est un format permettant la structuration de données. Il est utilisé principalement pour le transfère d'informations entre le client et un serveur.
 
-24.	Quelle balise HTML permet de créer un lien hypertexte ?
+24.	Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
 
-25.	Qu’est-ce qu’une requête AJAX ?
+> Oui, le javascript peut être interpréter côté serveur avec des environnements comme NodeJS, Deno, Bun etc
 
-26.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
+26.	Qu’est-ce qu’un sélecteur CSS ?
 
-27.	Définir le responsive design
+> Un sélecteur CSS est un règle utilisée pour spécifier le ou les éléments à styliser.
 
-28.	Qu’est-ce que le templating ?
+28.	Quelle balise HTML permet de créer un lien hypertexte ?
 
-29.	Qu’est-ce qu’une fonction anonyme en Javascript ?
+> Pour créer un lien hypertexte, on utilise la balise `<a>` accompagné de son attribut `href`.
+> Hypertext est un système permettant de relier différentes informations via des liens cliquables sur des documents ou des pages webs.
 
-30.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
+30.	Qu’est-ce qu’une requête AJAX ?
 
-31.	Qu’est-ce qu’un « media query » ?
+> AJAX signifie **Asynchronous JavaScript and XML**. Une requête Ajax permet au client de communiquer avec un serveur sans recharger la page.
 
-32.	Qu’est-ce qu’un pseudo élément en CSS ?
+32.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
 
-33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+> Pour séléctionner tous les éléments d'une classe spécifique on utilisera le symbole `.`
+> Pour ce qui est d'un identifiant, on utilisera le symbole `#`.
+>Exemple :
+>```css
+>.card {
+>  background-color: white;
+>}
+>
+>#logo {
+>  font-size: 1.25rem
+>}
+>```
 
-34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
+34.	Définir le responsive design
+
+> Le responsive design est le fait d'adapter l’apparence d’un site web aux différentes types d’écrans (ordinateurs, tablettes, mobiles).
+
+36.	Qu’est-ce que le templating ?
+
+> Le templating est une technique utilisant des templates (ou modèles) en HTML adin d'y injecter dynamiquement du contenu.
+
+38.	Qu’est-ce qu’une fonction anonyme en Javascript ?
+
+39.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
+
+40.	Qu’est-ce qu’un « media query » ?
+
+41.	Qu’est-ce qu’un pseudo élément en CSS ?
+
+42.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+
+43.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
 
 ## UX UI
 35.	Quelle est la différence entre UX Design et UI Design ?
