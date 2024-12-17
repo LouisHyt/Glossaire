@@ -101,6 +101,8 @@
 
 **17.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples**
 
+**18.	Quelle est la différence entre un Bundler, Transpiler, Linter et Formatter ? Donnez des examples**
+
 ## Front-end
 18.	Définir HTML
 
