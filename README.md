@@ -20,12 +20,15 @@
 > - WampServer
 
 **2.	Qu’est-ce qu’un algorithme ?**
+> Un algorithme est une série d'instruction explicites exécutés à la suite pour résoudre un problème ou effectuer une action précise.
 
 **3.	Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?**
 
 > Une variable permet de stocker des valeurs en mémoire pouvant être modifiées et réutilisées. En PHP, une variable s'écrit avec le symbole `$` (par exemple : `$name`, `$age` etc).
 
 **4.	Qu’est-ce que la portée d’une variable ?**
+> La portée d'une variable définit à quel endroit celle-ci peut être utilisée. \
+> Cette portée dépend grandement de l'endroit où la variable a été déclarée ainsi que son type de déclaration (let, var, const en javascript par exemple).
 
 **5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?**
 
