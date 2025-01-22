@@ -316,10 +316,29 @@ h.	Concaténer 2 chaînes de caractères
 
 ## Sécurité
 94.	Qu’est-ce que l’injection SQL ? Comment s’en prémunir ?
+> Une injection SQL est un type d'attaque où une personne insère du code SQL dans un champ (par exemple formulaire, url) pour lire ou modifier des informations de la base de donnée.
+> Pour éviter ce genre d'attaque, on peut :
+> - Sanitizer les données entrées par l'utilisateur (échapper certaines catactères, vérifier la présence de certains symboles etc)
+> - Préparer les requètes SQL avec des paramètres. Par exemple en PHP on aura :
+> ```php
+> $req = $pdo->prepare("INSERT INTO table (username, password) VALUES (:username, :email)");
+> $req->execute([
+>    ":username" => $username,
+>    ":email" => $email     
+> ])
+> ```
+> Au lieu de
+> ```php
+> $req = $pdo->query("INSERT INTO table (username, email) VALUES ($username, $email)")
+> ```
+
 
 95.	Qu’est-ce que la faille XSS ? Comment s’en prémunir ?
 
 96.	Qu’est-ce que la faille CSRF ? Comment s’en prémunir ?
+> La faille CSRF signifie "Cross-Site Request Forgery". Elle force un utilisateur authentifié à exécuter des actions non désirées depuis un autre site web.
+> Pour éviter ce genre d'attaque, on peut :
+> - Utiliser des tokens CSRF (Permet de s'assurer que la requête est effectué depuis le même site ayant distribué le token.
 
 97.	Définir l’attaque par force brute et l’attaque par dictionnaire
 
