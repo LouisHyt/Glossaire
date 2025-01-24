@@ -320,6 +320,7 @@ h.	Concaténer 2 chaînes de caractères
 > Symfony est basé sur PHP et utilise le MVC comme design patterns 
 
 86.	Quelle est la dernière version en date de Symfony ?
+> La dernière version de Symfony est la 7.2 
 
 87.	Qu’est-ce qu’un bundle ? 
 
