@@ -193,39 +193,41 @@
 42.	Qu’est-ce qu’un « mobile first design » ?
 
 ## Programmation orientée objet (POO)
-43.	Donner une définition de la programmation orientée objet 
+43.	Donner une définition de la programmation orientée objet
+> La programmation orientée objet est un modèle où l'on utilise des objets pour organiser le code et faciliter sa structuration et sa réutilisation.
 
 44.	Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
+> En POO, une classe est un plan / modèle constitué de données ainsi que de méthodes permettant de les manipuler. 
 
-45.	Qu’est-ce qu’un objet ?
+46.	Qu’est-ce qu’un objet ?
 
-46.	Définir la notion de propriété / attribut / méthode
+47.	Définir la notion de propriété / attribut / méthode
 
-47.	Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
+48.	Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
 
-48.	Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
+49.	Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
 
-49.	Qu’est-ce que l’encapsulation ?
+50.	Qu’est-ce que l’encapsulation ?
 
-50.	Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
+51.	Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
 
-51.	Définir l’opérateur de résolution de portée
+52.	Définir l’opérateur de résolution de portée
 
-52.	Définir une méthode / propriété statique
+53.	Définir une méthode / propriété statique
 
-53.	Définir le polymorphisme en POO
+54.	Définir le polymorphisme en POO
 
-54.	Définir une méthode / classe abstraite ?
+55.	Définir une méthode / classe abstraite ?
 
-55.	Définir le chaînage de méthodes
+56.	Définir le chaînage de méthodes
 
-56.	Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
+57.	Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
 
-57.	Qu’est-ce qu’un « autoload » ?
+58.	Qu’est-ce qu’un « autoload » ?
 
-58.	Comment appelle-t-on en français les « getters » et les « setters » ?
+59.	Comment appelle-t-on en français les « getters » et les « setters » ?
 
-59.	Qu’est-ce que la sérialisation en PHP ? 
+60.	Qu’est-ce que la sérialisation en PHP ? 
 
 ## Architecture 
 60.	Qu’est-ce que l’architecture client / serveur ? Grâce à quel type de requête peut-on interroger le serveur. Définir l’acronyme de ce type de requête. Si on ajoute un « S » à cet acronyme, expliquer la différence
