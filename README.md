@@ -375,10 +375,11 @@ h.	Concaténer 2 chaînes de caractères
 
 ## RGPD
 104.	Qu’est-ce que le RGPD ?
-> Le RGPD signifie **Règlement général sur le protection des données**.
+> Le RGPD signifie **Règlement général sur la protection des données**.
 
 105.	Quel est son objectif principal ?
-> Il vise à protéger la vie privée des citoyens ainsi que leurs données personnelles.
+> Il vise à protéger la vie privée des citoyens ainsi que leurs données personnelles (régulation de la collecte, le traitement et le stockage). \
+> Il impose aux entreprises de garantir la sécurité des données et de faire en sorte que les utilisateurs aient le contrôle sur leurs données personnelles.
 
 106.	Quelle est la date d’entrée en vigueur du RGPD ?
 
@@ -409,6 +410,8 @@ h.	Concaténer 2 chaînes de caractères
 118.	Qu’est-ce qu’une balise « alt » ?
 
 119.	Qu’est-ce que la balise « meta description » ?
+> La balise meta description permet de fournir une description pour la pahe web courante.\
+> On la place dans la section ***<head>*** du document HTML. Une bonne meta descriotion peut permettre un meilleur référencement.
 
 120.	Qu’est-ce que le « nofollow » en SEO ?
 
