@@ -375,8 +375,10 @@ h.	Concaténer 2 chaînes de caractères
 
 ## RGPD
 104.	Qu’est-ce que le RGPD ?
+> Le RGPD signifie **Règlement général sur le protection des données**.
 
 105.	Quel est son objectif principal ?
+> Il vise à protéger la vie privée des citoyens ainsi que leurs données personnelles.
 
 106.	Quelle est la date d’entrée en vigueur du RGPD ?
 
@@ -395,7 +397,8 @@ h.	Concaténer 2 chaînes de caractères
 113.	Qu’est-ce que le principe de minimisation des données selon le RGPD ?
 
 ## SEO
-114.	Qu’est-ce que le SEO ? 
+114.	Qu’est-ce que le SEO ?
+> Le SEO signifie Search Engine Optimization. Il désigne l'ensemble des moyens et techniques utilisés pour améliorer le référencement et la visibilité d'un site web sur les moteurs de recherche. 
 
 115.	Quel est l’objectif principal du SEO ?
 
