@@ -409,13 +409,16 @@ h.	Concaténer 2 chaînes de caractères
 
 117.	Qu’est-ce que la densité de mots-clés en SEO ?
 
-118.	Qu’est-ce qu’une balise « alt » ?
+118.	Qu’est-ce qu’un tag « alt » ?
+> Le tag « alt » est utilisé avec la balise ***<img>***. Il permet d'afficher un texte décrivant l'image dans le cas où elle ne s'afficherait pas ou pour que les personnes malvoyantes puisse comprendre ce qui est à l'écran (avec un lecteur d'écran par exemple)
 
 119.	Qu’est-ce que la balise « meta description » ?
 > La balise meta description permet de fournir une description pour la pahe web courante.\
 > On la place dans la section ***<head>*** du document HTML. Une bonne meta descriotion peut permettre un meilleur référencement.
 
 120.	Qu’est-ce que le « nofollow » en SEO ?
+> Le « nofollow » est un attribut html pouvant être utilisé sur les liens.\
+> Il permet d'indiquer aux moteurs de recherche de ne pas être inclu dans le classement SEO. Le lien n'influe donc pas sur le référencement du site ciblé.
 
 121.	Quelle est l'importance du contenu de qualité pour le référencement d'un site web ?
 
