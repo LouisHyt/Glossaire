@@ -221,6 +221,10 @@
 53.	Définir une méthode / propriété statique
 
 54.	Définir le polymorphisme en POO
+> En POO, le polymorphisme permet à une méthode d'avoir des comportements différents en fonction de l'objet qui l'appelle.
+> Il en existe 2 types différents :
+> - Le polymorphisme de méthode
+> - Le polymorphisme d'héritage
 
 55.	Définir une méthode / classe abstraite ?
 
@@ -231,6 +235,7 @@
 58.	Qu’est-ce qu’un « autoload » ?
 
 59.	Comment appelle-t-on en français les « getters » et les « setters » ?
+> En français, les getters sont appelés les **accesseurs** et les setters les **mutateurs**.
 
 60.	Qu’est-ce que la sérialisation en PHP ? 
 
@@ -240,6 +245,10 @@
 61.	Donner la définition d’un design pattern. Citer au moins 3 exemples de design pattern
 
 62.	Qu’est-ce que l’architecture MVC ?
+> L'architecture MVC (Modèle/Vue/Controleur) est un modèle de conception, séparant une application web en trois catégories principales :
+> - Modèle : Gère les données et la logique de l'application.
+> - Vue : Gère l'affiche des données pour l'utilisateur (Contenu front)
+> - Contrôleur : Interprête les actions de l'utilisateur, traite ses données et intéragit avec le modèle si besoin. C'est lui qui renvoie les vues à l'utilisateur.
 
 63.	Quel est le rôle de chaque couche du design pattern MVC : Model, View, Controller ?
 
