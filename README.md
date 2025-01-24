@@ -257,9 +257,13 @@
 65.	Existe-t-il des variantes à l’architecture MVC ?
 
 66.	Qu’est-ce qu’une API ? Définir l’architecture REST
+> Une API signifie **Application Programming Interface**. Elle permet à des applications (web, mobiles, windows) de communiquer entre elles en s'échangeant des données.
+> L'architecture REST signifie **Respresentational State Transfer**. Elle repose sur plusieurs principes comme l'utilisation de GET, POST, PUT, DELETE pour accéder ou manipuler des ressources via une URL. 
 
 ## Modélisation - Base de données
 67.	Qu’est-ce que la modélisation de données ? Définir la méthode Merise
+> La modélisation des données est le fait de structurer et organiser les informations d'un système pour mieux les visualiser et les gérer.\
+> La méthode Merise est une méthode de modélisation qui aide à concevoir les bases de données.
 
 68.	Quelles sont les 3 étapes principales de la méthode Merise ? 
 
