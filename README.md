@@ -314,8 +314,10 @@ h.	Concaténer 2 chaînes de caractères
 
 ## Symfony
 84.	Qu’est-ce que Symfony ?
+> Symfony est un framework PHP. Il met à disposition un ensemble d'outils et une configuration par défaut facilitant grandement le développement d'application webs. 
 
-85.	Sur quel langage de programmation et design pattern repose Symfony ? 
+85.	Sur quel langage de programmation et design pattern repose Symfony ?
+> Symfony est basé sur PHP et utilise le MVC comme design patterns 
 
 86.	Quelle est la dernière version en date de Symfony ?
 
