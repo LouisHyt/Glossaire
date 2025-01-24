@@ -204,6 +204,11 @@
 47.	Définir la notion de propriété / attribut / méthode
 
 48.	Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
+> La visibilité définit les autorisations depuis l'exterieur de la classe. Elle détermine qui peut utiliser ou modifier ces propriétés / méthodes.
+> Il en existe 3 :
+> - Public | La méthode ou propriété peut être utilisé n'importe où.
+> - Private | La méthode ou propriété ne peut être utilisé qu'à l'intérieur de cette même classe.
+> - Protected | La méthode ou propriété peut être utilisé qu'à l'intérieur de cette même classe ET également ses sous classes qui étendent de celle-ci.
 
 49.	Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
 
