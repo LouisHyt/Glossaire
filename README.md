@@ -189,6 +189,7 @@
 40.	Qu’est-ce qu’une grille de mise en page ?
 
 41.	Qu’est-ce que la notion d’affordance en UX Design ?
+> L'affordance est le fait de suggérer une utilisation à partir de l'apparence. Cela aide les utilisateurs à comprendre de manière instinctif comment intéragir avec des élements.
 
 42.	Qu’est-ce qu’un « mobile first design » ?
 
