@@ -242,7 +242,7 @@
 
 Bonus. Quel est le principe de responsabilité unique ?
 > La responsabilité unique (Single responsibility principle en anglais) implique qu'une classe, fonction ou méthode devrait toujours s'occuper d'une seule tache unique pour favoriser la modification et sa modularité. \
-Pour en svoir plus → https://fr.wikipedia.org/wiki/SOLID_(informatique)
+Pour en savoir plus → https://fr.wikipedia.org/wiki/SOLID_(informatique)
 
 ## Architecture 
 60.	Qu’est-ce que l’architecture client / serveur ? Grâce à quel type de requête peut-on interroger le serveur. Définir l’acronyme de ce type de requête. Si on ajoute un « S » à cet acronyme, expliquer la différence
